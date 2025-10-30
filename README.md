@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Parna Praveen
-ppraveen@ucsd.edu
+Parna Praveen and Kevin Chen
